@@ -1,0 +1,104 @@
+—редн€€ смертность и рождаемость по регионам –оссии 
+Ќазвание региона                        —редн€€ смертность                    —редн€€ рождаемость
+Republic of Adygea                        14.092857142857143                      11.289285714285715
+Altai Krai                        14.342857142857145                      10.882142857142858
+Amur Oblast                        13.896428571428569                      12.264285714285716
+Arkhangelsk Oblast                        14.489285714285714                      10.839285714285714
+Astrakhan Oblast                        13.278571428571428                      12.421428571428573
+Republic of Bashkortostan                        12.849999999999996                      12.464285714285717
+Belgorod Oblast                        14.682142857142853                      9.964285714285714
+Bryansk Oblast                        16.689285714285713                      9.935714285714283
+Republic of Buryatia                        12.503571428571428                      14.528571428571428
+Vladimir Oblast                        17.260714285714283                      9.514285714285714
+Volgograd Oblast                        14.235714285714284                      10.114285714285714
+Vologda Oblast                        15.860714285714286                      10.985714285714286
+Voronezh Oblast                        16.571428571428573                      9.196428571428571
+Republic of Dagestan                        6.124999999999999                      18.414285714285718
+Jewish Autonomous Oblast                        14.414285714285713                      12.542857142857141
+Zabaykalsky Krai                        13.532142857142858                      14.099999999999998
+Ivanovo Oblast                        18.27142857142857                      9.196428571428571
+Republic of Ingushetia                        3.7499999999999996                      15.917857142857143
+Irkutsk Oblast                        14.164285714285713                      13.075000000000001
+Kabardino-Balkar Republic                        9.467857142857145                      13.346428571428575
+Kaliningrad Oblast                        14.135714285714286                      10.132142857142858
+Republic of Kalmykia                        10.325                      14.146428571428574
+Kaluga Oblast                        16.264285714285716                      9.589285714285714
+Kamchatka Krai                        10.910714285714286                      11.028571428571428
+Karachay-Cherkess Republic                        10.23214285714286                      12.842857142857138
+Republic of Karelia                        15.628571428571432                      10.435714285714285
+Kemerovo Oblast                        15.710714285714289                      11.000000000000002
+Kirov Oblast                        16.092857142857145                      10.22857142857143
+Kostroma Oblast                        17.467857142857145                      10.264285714285716
+Krasnodar Krai                        14.242857142857138                      11.135714285714286
+Krasnoyarsk Krai                        13.328571428571427                      11.685714285714282
+Republic of Crimea                        1.6035714285714284                      1.7285714285714284
+Kurgan Oblast                        15.553571428571429                      11.317857142857141
+Kursk Oblast                        17.328571428571433                      9.789285714285715
+Leningrad Oblast                        16.575                      8.167857142857143
+Lipetsk Oblast                        15.903571428571423                      9.692857142857141
+Magadan Oblast                        11.496428571428568                      10.832142857142854
+Mari El Republic                        14.021428571428569                      11.624999999999996
+Republic of Mordovia                        14.821428571428571                      9.278571428571427
+Moscow                        12.2                      9.12857142857143
+Moscow Oblast                        15.364285714285717                      9.342857142857143
+Murmansk Oblast                        11.121428571428572                      9.885714285714288
+Nenets Autonomous Okrug                        11.035714285714283                      15.153571428571427
+Nizhny Novgorod Oblast                        16.86428571428571                      9.578571428571431
+Novgorod Oblast                        19.107142857142854                      9.80714285714286
+Novosibirsk Oblast                        13.842857142857142                      11.096428571428572
+Omsk Oblast                        13.160714285714281                      11.657142857142857
+Orenburg Oblast                        13.778571428571428                      11.98214285714286
+Oryol Oblast                        16.639285714285712                      9.585714285714285
+Penza Oblast                        15.432142857142855                      9.217857142857142
+Perm Krai                        15.135714285714284                      11.832142857142857
+Primorsky Krai                        13.50357142857143                      10.814285714285713
+Pskov Oblast                        20.425                      9.317857142857141
+Altai Republic                        12.59285714285714                      17.396428571428572
+Komi Republic                        12.478571428571426                      11.578571428571427
+Tuva Republic                        11.99642857142857                      21.703571428571426
+Rostov Oblast                        14.59642857142857                      10.032142857142858
+Ryazan Oblast                        17.607142857142858                      9.096428571428572
+Samara Oblast                        14.510714285714284                      10.210714285714285
+Saint Petersburg                        14.128571428571421                      9.417857142857144
+Saratov Oblast                        14.839285714285714                      9.867857142857142
+Sakhalin Oblast                        13.599999999999998                      11.221428571428572
+Sverdlovsk Oblast                        14.750000000000002                      11.0
+Sevastopol                        1.4964285714285714                      1.7857142857142858
+Republic of North Ossetia-Alania                        11.39642857142857                      13.117857142857147
+Smolensk Oblast                        17.885714285714286                      9.160714285714288
+Stavropol Krai                        12.867857142857138                      11.25
+Tambov Oblast                        17.300000000000004                      8.939285714285713
+Republic of Tatarstan                        12.389285714285714                      11.739285714285714
+Tver Oblast                        19.685714285714287                      9.478571428571428
+Tomsk Oblast                        12.38928571428571                      11.14642857142857
+Tula Oblast                        18.86785714285715                      8.410714285714286
+Tyumen Oblast                        9.37857142857143                      13.453571428571427
+Udmurt Republic                        13.296428571428569                      12.189285714285718
+Ulyanovsk Oblast                        14.557142857142855                      9.946428571428571
+Khabarovsk Krai                        13.596428571428575                      11.342857142857143
+Republic of Khakassia                        14.139285714285716                      12.596428571428572
+KhantyЦMansi Autonomous Okrug Ц Yugra                        6.5321428571428575                      14.003571428571428
+Chelyabinsk Oblast                        14.19642857142857                      11.189285714285715
+Chechen Republic                        3.617857142857143                      16.125
+Chuvash Republic                        13.350000000000005                      11.57142857142857
+Chukotka Autonomous Okrug                        9.803571428571429                      13.025000000000004
+Sakha (Yakutia) Republic                        9.214285714285714                      15.725000000000003
+Yamalo-Nenets Autonomous Okrug                        5.421428571428573                      14.174999999999999
+Yaroslavl Oblast                        17.132142857142856                      9.489285714285712
+
+
+
+–егион с самой низкой смертностью          Sevastopol
+
+–егион с самой высокой рождаемостью          Tuva Republic
+
+
+
+–егионы, где рождаемость превышает смертность       
+“аких регионов            18
+Republic of Buryatia   ||   Republic of Dagestan   ||   Zabaykalsky Krai   ||   Republic of Ingushetia   ||   Kabardino-Balkar Republic   ||   Republic of Kalmykia   ||   Kamchatka Krai   ||   Karachay-Cherkess Republic   ||   Nenets Autonomous Okrug   ||   Altai Republic   ||   Tuva Republic   ||   Republic of North Ossetia-Alania   ||   Tyumen Oblast   ||   KhantyЦMansi Autonomous Okrug Ц Yugra   ||   Chechen Republic   ||   Chukotka Autonomous Okrug   ||   Sakha (Yakutia) Republic   ||   Yamalo-Nenets Autonomous Okrug   ||   
+
+
+–егионы, где смертность превышает рождаемость          
+“аких регионов            67
+Republic of Adygea   ||   Altai Krai   ||   Amur Oblast   ||   Arkhangelsk Oblast   ||   Astrakhan Oblast   ||   Republic of Bashkortostan   ||   Belgorod Oblast   ||   Bryansk Oblast   ||   Vladimir Oblast   ||   Volgograd Oblast   ||   Vologda Oblast   ||   Voronezh Oblast   ||   Jewish Autonomous Oblast   ||   Ivanovo Oblast   ||   Irkutsk Oblast   ||   Kaliningrad Oblast   ||   Kaluga Oblast   ||   Republic of Karelia   ||   Kemerovo Oblast   ||   Kirov Oblast   ||   Kostroma Oblast   ||   Krasnodar Krai   ||   Krasnoyarsk Krai   ||   Republic of Crimea   ||   Kurgan Oblast   ||   Kursk Oblast   ||   Leningrad Oblast   ||   Lipetsk Oblast   ||   Magadan Oblast   ||   Mari El Republic   ||   Republic of Mordovia   ||   Moscow   ||   Moscow Oblast   ||   Murmansk Oblast   ||   Nizhny Novgorod Oblast   ||   Novgorod Oblast   ||   Novosibirsk Oblast   ||   Omsk Oblast   ||   Orenburg Oblast   ||   Oryol Oblast   ||   Penza Oblast   ||   Perm Krai   ||   Primorsky Krai   ||   Pskov Oblast   ||   Komi Republic   ||   Rostov Oblast   ||   Ryazan Oblast   ||   Samara Oblast   ||   Saint Petersburg   ||   Saratov Oblast   ||   Sakhalin Oblast   ||   Sverdlovsk Oblast   ||   Sevastopol   ||   Smolensk Oblast   ||   Stavropol Krai   ||   Tambov Oblast   ||   Republic of Tatarstan   ||   Tver Oblast   ||   Tomsk Oblast   ||   Tula Oblast   ||   Udmurt Republic   ||   Ulyanovsk Oblast   ||   Khabarovsk Krai   ||   Republic of Khakassia   ||   Chelyabinsk Oblast   ||   Chuvash Republic   ||   Yaroslavl Oblast   ||   
